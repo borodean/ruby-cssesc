@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
   s.files    = Dir['lib/**/*']
 
   s.add_dependency 'activesupport'
-  s.add_dependency 'cssesc-source'
+  s.add_dependency 'cssesc-source', '0.1.0'
   s.add_dependency 'execjs'
 end
